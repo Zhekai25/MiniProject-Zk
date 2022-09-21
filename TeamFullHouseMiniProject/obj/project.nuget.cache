@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lk5nVR3TeNOYbIuAG++G7IfnNQwdukgg3TugOtN5xSz1ztnW1vpbNVA5YBGuMlzv7F1HFhTn/t3aSqjeVhkBkg==",
+  "dgSpecHash": "QTwC2zHMODzeZGkRJJztXrk5PPVnyJqmcsW/V7OgYB8eXgLQdUdAyv/9AsK2EF14I/SkeGE74oD+zekdSihwqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zheka\\OneDrive\\Documents\\Softinn\\MiniProject\\TeamFullHouseMiniProject\\TeamFullHouseMiniProject.csproj",
+  "projectFilePath": "C:\\Users\\zheka\\OneDrive\\Documents\\MiniProject-Zk\\TeamFullHouseMiniProject\\TeamFullHouseMiniProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zheka\\.nuget\\packages\\angularjs\\1.8.2\\angularjs.1.8.2.nupkg.sha512",
     "C:\\Users\\zheka\\.nuget\\packages\\microsoft.typescript.msbuild\\4.8.2\\microsoft.typescript.msbuild.4.8.2.nupkg.sha512"
